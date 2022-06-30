@@ -1,0 +1,47 @@
+[
+    {
+        "ref": 0,
+        "name": "SYMPATHIE PARTAGÉE",
+        "desc": "Charmant panier champêtre composé de délicates fleurs de saison dans un camaïeu de roses",
+        "sm": "49.00",
+        "moy": "69.00",
+        "xl": "89.00",
+        "img": "https://fleuristes-et-fleurs.com/uploads/creations/cropped/d926b62dc2739a3eaa647c4ab730dbdfa42285c2.jpg"
+    },
+    {
+        "ref": 1,
+        "name": "JOIE DE VIVRE",
+        "desc": "Pétillant bouquet rond composé de fleurs de saison dans les tons fushia et rose",
+        "sm": "29.00",
+        "moy": "39.00",
+        "xl": "49.00",
+        "img": "https://fleuristes-et-fleurs.com/uploads/creations/cropped/e9b2dc4182a0d0c88a98564343144080d171d4c5.jpg"
+    },
+    {
+        "ref": 2,
+        "name": "SUBLIME LUMIÈRE",
+        "desc": "Pétillant bouquet composé de fleurs de saison tons jaune et orange",
+        "sm": "35.00",
+        "moy": "45.00",
+        "xl": "55.00",
+        "img": "https://fleuristes-et-fleurs.com/uploads/creations/cropped/8c2754d8ab0810c6e9f27d4698973a707bf787b8.jpg"
+    },
+    {
+        "ref": 3,
+        "name": "DÉLICIEUSE AFFECTION",
+        "desc": "Délicate composition florale réalisée avec des roses de couleur rose",
+        "sm": "35.00",
+        "moy": "55.00",
+        "xl": "75.00",
+        "img": "https://fleuristes-et-fleurs.com/uploads/creations/cropped/f1b5ebd57e912e32382557db028e03ee609c52bd.jpg"
+    },
+    {
+        "ref": 4,
+        "name": "DÉLICATE ATTENTION",
+        "desc": "Eblouissante composition réalisée avec des fleurs de saison",
+        "sm": "30.00",
+        "moy": "50.00",
+        "xl": "70.00",
+        "img": "https://fleuristes-et-fleurs.com/uploads/creations/cropped/ec4a4a6864938cafc00294c1fac67b31d1518fdc.jpg"
+    }
+]
