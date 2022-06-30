@@ -10,7 +10,7 @@ export default function Contact() {
                 <TextInput style={styles.input} placeholder="Nom" />
                 <TextInput style={styles.input} placeholder="Prénom" />
                 <TextInput style={styles.input} placeholder="Email" />
-                <TextInput style={styles.input} placeholder="Téléphone" />
+                <TextInput style={styles.input} placeholder="Téléphone" keyboardType="numeric" />
                 <TextInput style={styles.input} placeholder="Vous êtes" />
                 <TextInput style={styles.input} placeholder="Sujet" />
                 <TextInput style={styles.inputmessage} placeholder="Message" />
